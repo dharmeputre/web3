@@ -1,0 +1,144 @@
+.jumbotron {
+  background-image: url(gambar1.jpg);
+  background-size: cover;
+  height: 500px;
+}
+
+.container .display-4 {
+  color: white;
+padding-top: 150px
+}
+
+.jumbotron .display-4 {
+  font-weight: 900;
+  font-size: 50px;
+}
+.lead {
+  color: white;
+}
+
+.social-icons a {
+  padding: 20px;
+  color: white;
+}
+
+.social-icons .fb:hover {
+  color: #3b5998;
+}
+.social-icons .twitter:hover {
+  color: #45b1e8;
+}
+.social-icons .insta:hover {
+  color: #DD2A7B;
+}
+.social-icons .yt:hover {
+  color: #ff0000;
+}
+
+.downjumbo {
+  height: 300px;
+  color: white;
+  background-color: #1F2029;
+}
+.downjumbo h3 {
+padding-top: 100px
+}
+#experience {
+  padding-top: 50px;
+}
+#photo2 {
+  padding-top: 5px;
+}
+
+/* untuk mobile */
+@media screen and (max-width: 360px) {
+  #photo2 {
+    height: 1050px;
+    background-color: #F1F1F1;
+  }
+}
+/* untuk destop */
+@media screen and (min-width: 980px) {
+  #photo2 {
+    height: 800px;
+    background-color: #F1F1F1;
+  }
+}
+
+#photo2 h2 p {
+  margin-top: 200px;
+}
+
+/* untuk mobile */
+@media screen and (max-width: 360px) {
+  #photo3 {
+    height: 1050px;
+    background-color: white;
+  }
+}
+
+/* untuk destop */
+@media screen and (min-width: 980px) {
+  #photo3 {
+    height: 800px;
+    background-color: white;
+  }
+}
+
+#photo3 h2 p {
+  margin-top: 200px;
+}
+
+
+/* untuk mobile */
+@media screen and (max-width: 360px) {
+  #photo4 {
+    height: 3180px;
+    background-color: #F1F1F1;
+  }
+}
+
+/* untuk destop */
+@media screen and (min-width: 980px) {
+  #photo4 {
+    height: 1000px;
+    background-color: #F1F1F1;
+  }
+}
+
+#last {
+  color: white;
+  background-color:  #1F2029;
+  height: 300px;
+}
+#last  h3 {
+  padding-top: 80px;
+}
+#copyright {
+  background-color: #F1F1F1;
+}
+
+/* untuk mobile */
+@media screen and (max-width: 360px) {
+    #copyright .colom1 {
+      padding-top: 120px;
+    }
+}
+
+/* untuk destop */
+@media screen and (min-width: 980px) {
+    #copyright .colom1 {
+      padding-top: 150px;
+    }
+  #copyright .colom2 {
+  padding-top: 150px;
+}
+#copyright .colom3 {
+  padding-top: 150px;
+}
+}
+
+
+
+
+
